@@ -8,7 +8,7 @@ A responsive and visually appealing food ordering website built with HTML, CSS, 
 
 ## 📸 Screenshots
 
-![Food Munch Homepage](https://drive.google.com/file/d/1DaF1bUC_wVopHzXkFQcbfpoTMz2vf3FD/view?usp=drive_link)
+![Food Munch Homepage](https://res.cloudinary.com/dwrt0nczc/image/upload/v1754475066/Screenshot_2025-08-06_152326_qhvgyi.png)
 
 ## 📁 Features
 
