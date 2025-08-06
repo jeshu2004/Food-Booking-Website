@@ -9,6 +9,9 @@ A responsive and visually appealing food ordering website built with HTML, CSS, 
 ## 📸 Screenshots
 
 ![Food Munch Homepage](https://res.cloudinary.com/dwrt0nczc/image/upload/v1754475066/Screenshot_2025-08-06_152326_qhvgyi.png)
+![Explore Menu](https://res.cloudinary.com/dwrt0nczc/image/upload/v1754475065/Screenshot_2025-08-06_152348_ntnksm.png)
+![Delivery & Payment Page](https://res.cloudinary.com/dwrt0nczc/image/upload/v1754475064/Screenshot_2025-08-06_152503_cqxkus.png)
+![Gift Voucher](https://res.cloudinary.com/dwrt0nczc/image/upload/v1754475065/Screenshot_2025-08-06_152415_urptaz.png)
 
 ## 📁 Features
 
