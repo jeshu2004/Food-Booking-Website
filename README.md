@@ -8,8 +8,10 @@ A responsive and visually appealing food ordering website built with HTML, CSS, 
 
 ## 📸 Screenshots
 
-![Food Munch Homepage](https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png)
-
+![Food Munch Homepage](https://drive.google.com/file/d/1DaF1bUC_wVopHzXkFQcbfpoTMz2vf3FD/view?usp=drive_link)
+![Explore Menu ](https://drive.google.com/file/d/1qKSCcx-bu3rygbMhIZjdY-tLqVHnbRKQ/view?usp=drive_link)
+![Delivery Payment](https://drive.google.com/file/d/1es7K1HdPd1ft2otKXEk_o5zlu-JJzXl4/view?usp=drive_link)
+![Gift Voucher](https://drive.google.com/file/d/1IvtM5eoVvegM4lOBmMG_mnK39C6kgqP9/view?usp=drive_link)
 
 ## 📁 Features
 
@@ -29,14 +31,4 @@ A responsive and visually appealing food ordering website built with HTML, CSS, 
 - **CSS3**
 - **Bootstrap 4**
 - **Font Awesome**
-
-## 🚀 Deployment on GitHub Pages
-
-1. Push your code to a public GitHub repository.
-2. Go to your repository → **Settings** → **Pages**.
-3. Under **"Source"**, choose:
-   - Branch: `main`
-   - Folder: `/ (root)`
-4. Click **Save**.
-5. After a few seconds, your site will be live at:
 
