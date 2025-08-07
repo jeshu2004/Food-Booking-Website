@@ -2,6 +2,10 @@
 
 A responsive and visually appealing food ordering website built with HTML, CSS, and Bootstrap. This project showcases a clean UI/UX design suitable for restaurant or food delivery services.
 
+## View Website
+
+[Click here](https://jeshufoodmunch.ccbp.tech/)
+
 ## 🌐 Live Demo
 
 [View Live Project](https://drive.google.com/file/d/1-3CIlM1IeQF5hHJ--GR21SypRyYl-76X/view?usp=drive_link) 
